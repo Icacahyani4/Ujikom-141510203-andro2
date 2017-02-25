@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="45738411904569"
+    token="-1595089680639166243"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="357" />
+    <task
+        name="instant-run-dex"
+        duration="857" />
+    <task
+        name="instant-run-transform"
+        duration="84" />
+    <task
+        name="verifier"
+        duration="53" />
+
+    <artifact
+        location="E:\ujikom-2017\ujikom-2017\Android\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="45322823360552"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\ujikom-2017\ujikom-2017\Android\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="45504832445758"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\ujikom-2017\ujikom-2017\Android\app\build\intermediates\builds\debug\45504832445758\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="45691716766036"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\ujikom-2017\ujikom-2017\Android\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="E:\ujikom-2017\ujikom-2017\Android\app\build\intermediates\builds\debug\45691716766036\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="45738411904569"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\ujikom-2017\ujikom-2017\Android\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
